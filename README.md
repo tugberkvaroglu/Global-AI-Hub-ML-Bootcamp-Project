@@ -13,4 +13,4 @@ Bootcamp project for Global AI Hub
 
 + Sonuçlara bakılacak olursa iki algoritmanın da çok iyi sonuçlar elde ettiği görülüyor. KNN biraz daha iyi bir sonuç çıkarmış fakat o artısını da tahminleme süresinde kaybediyor çünkü lineer regresyon basit bir tahminleme algortiması olduğu için tahminleme süresi yaklaşık olarak 0.2 sn ile 0.4 sn arasında değişiyor, KNN tahminlemesi ile yaklaşık olarak 2 dakika ile 2.30 dakika arasında.
 
-Projenin Kaggle linki: 
+Projenin Kaggle linki: https://www.kaggle.com/code/tuberkvarolu/global-ai-hub-bootcamp-project
